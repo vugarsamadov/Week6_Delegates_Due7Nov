@@ -1,13 +1,12 @@
 ﻿using DelegatesTask.Extensions;
 using DelegatesTask.Helpers;
 using DelegatesTask.Models;
-using System.Data;
 
-Student student1 = new("Vugar","Samadov");
-Student student2 = new("Bill","Clinton");
-Student student3 = new("Saddam","Hussein");
-Student student4 = new("Jefy","Biden");
-Student student5 = new("Hunter","Biden");
+//Student student1 = new("Vugar","Samadov");
+//Student student2 = new("Bill","Clinton");
+//Student student3 = new("Saddam","Hussein");
+//Student student4 = new("Jefy","Biden");
+//Student student5 = new("Hunter","Biden");
 
 
 List<Exam> ExamResults = new List<Exam>();
